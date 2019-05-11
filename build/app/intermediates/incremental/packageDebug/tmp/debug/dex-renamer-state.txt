@@ -1,0 +1,4 @@
+#Sat Apr 27 17:14:00 IST 2019
+base.0=/Users/imagine/FlutterDemo/stateless_app/build/app/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex
